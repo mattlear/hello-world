@@ -1,2 +1,6 @@
 # hello-world
-Git Tutorial
+
+Git tutorial
+
+Learning how to make and commit changes
+
